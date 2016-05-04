@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Wed May 04 15:02:02 MSK 2016
+com/alextest/stories/my.story=194000
+threads=2
+total=194000
+threadAverage=97000
